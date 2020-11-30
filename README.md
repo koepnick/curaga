@@ -20,6 +20,8 @@ and air dissolved in the liquid resin.
 
 My goal is to remove, or at a minimum control for those two variables.
 
+Also, to create a rotating platform for uniform curing.
+
 ## How are you doing that?!
 
 By using a simple microcontroller!
@@ -54,3 +56,8 @@ SDA/SCL: OLED Screen
 ## Wishlist
 
 - [ ] Vacuum sensor within the chamber
+
+
+# Notes
+
+Expect **a lot** of commented code and other irregular debugging techniques.
