@@ -46,7 +46,7 @@ SDA/SCL: OLED Screen
 
 - [x] Potentiometers
 
-- [] Relay
+- [ ] Relay
 
 
 ## Wishlist
