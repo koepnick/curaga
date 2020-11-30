@@ -1,4 +1,7 @@
 # curaga
+
+# This is **NOT** fit for use yet!
+
 The software side of a Arduino powered UV curing device
 
 
