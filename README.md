@@ -18,7 +18,7 @@ the liquid epoxy during the polymerization process.
 I believe that this is a result of two variables: The intensity of the light,
 and air dissolved in the liquid resin.
 
-My goal is to remove, or at a minimum control from those two variables.
+My goal is to remove, or at a minimum control for those two variables.
 
 ## How are you doing that?!
 
