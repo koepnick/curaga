@@ -30,7 +30,7 @@ Voltage! The LEDs that I'm using can either be 3.3V or 12V.
 
 ### Inputs
 
-Potentiometer 1: Intensity of the light
+Potentiometer 1: Adjust the intensity of the lights
 
 Potentiometer 2: Rotational speed of the motor
 
@@ -38,6 +38,8 @@ Button *n*: Trigger a preprogrammed set of actions
 
 #### Outputs
 Relay 1: Toggle vacuum
+
+MOSFET 1: Control intensity of the lights via PWM
 
 SDA/SCL: OLED Screen
 
