@@ -4,7 +4,7 @@ The software side of a Arduino powered UV curing device
 
 This is very much a work in progress
 
-__ Please do not set yourself on fire __
+**Please do not set yourself on fire**
 
 
 ## What I'm Trying to Accomplish
