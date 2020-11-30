@@ -4,7 +4,7 @@ The software side of a Arduino powered UV curing device
 
 This is very much a work in progress
 
-** Please do not set yourself on fire **
+__ Please do not set yourself on fire __
 
 
 ## What I'm Trying to Accomplish
@@ -44,9 +44,9 @@ SDA/SCL: OLED Screen
 
 ## Tasks
 
-[x] Potentiometers
+- [x] Potentiometers
 
-[] Relay
+- [] Relay
 
 
 ## Wishlist
