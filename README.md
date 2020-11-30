@@ -53,4 +53,4 @@ SDA/SCL: OLED Screen
 
 ## Wishlist
 
-[ ] Vacuum sensor within the chamber
+- [ ] Vacuum sensor within the chamber
